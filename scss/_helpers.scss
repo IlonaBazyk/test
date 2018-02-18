@@ -1,0 +1,25 @@
+
+.circle {
+    border-radius: 50%;
+}
+.f-r {
+float: right;
+}
+.ml-5 {
+  margin-left: 0.5rem;
+}
+.mr-5 {
+  margin-right: 0.5rem;
+}
+
+.inline-block {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.flex {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
